@@ -1,4 +1,4 @@
-# The-Thread-Shed-Codecademy-String-manipulation-
+# The-Thread-Shed-Codecademy-String-Cleaning-
 Clean/analyze the useful Sales data, from a mixed large single string.
 
 
